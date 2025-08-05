@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js , React.js, Express.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sepia-six-55.vercel.app/](https://portfolio-sepia-six-55.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://portfolio-sepia-six-55.vercel.app/](https://myportfolio-seven-wheat-76.vercel.app/))
 
 - 📫 How to reach me **rskkhan89@gmail.com**
 
